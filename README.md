@@ -2,4 +2,4 @@
 - 👀 I’m interested in JAVA,JS,WEB.
 - 🌱 I’m currently learning J2EE
 - 💞️ I’m looking to collaborate on Projects
-- 📫 you ca reach me with my email abdelmalekbouguerra2000@gmail.com 
+- 📫 you can reach me with my email abdelmalekbouguerra2000@gmail.com
