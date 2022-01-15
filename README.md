@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://api.creavite.co/out/a4d926a7-8ea7-4fc2-90ce-f786dfa7efc8_standard.gif" alt="cover" />
+<img width="100%" height = "250px" src="https://user-images.githubusercontent.com/64624629/149632945-96584ecc-23ef-4525-b971-7a4db9180a80.gif" alt="cover" />
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
