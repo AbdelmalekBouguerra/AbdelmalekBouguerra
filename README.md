@@ -38,9 +38,6 @@
   <a href = "https://twitter.com/AbdelmalekAssia"> <img width = '32px' align = 'center' src="https://user-images.githubusercontent.com/64624629/149534557-0c6cc121-55ee-438f-9865-faa9bddb371b.png"/></a>
     <a href = "https://www.facebook.com/abdelmalek.bouguerra.18"> <img width = '50px' align = 'center' src="https://user-images.githubusercontent.com/64624629/149535136-0df06150-a403-4529-9704-9df141402f93.png"/></a>
 
-
-<h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@AbdelmalekBouguerra&compact=True"/>
 <br>
 
 
